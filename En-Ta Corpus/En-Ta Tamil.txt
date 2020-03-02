@@ -1,4 +1,6 @@
-﻿ரணவிரு சேவை அதிகார சபை
+﻿#En-Ta Glossary prepared by University of Moratuwa
+#Line Count : 8949
+ரணவிரு சேவை அதிகார சபை
 வருடாந்த அறிக்கை 2011
 இல. 301, 4ஆம் மாடி,
 டி.பி. ஜாயா மாவத்தை
