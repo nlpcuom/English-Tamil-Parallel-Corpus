@@ -1,5 +1,6 @@
 #En-Ta Glossary prepared by University of Moratuwa
 #Line Count : 22476
+#Version-1.0.2
 கடத்தல்
 பிறழ்ச்சி
 உடந்தை
