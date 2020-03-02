@@ -1,6 +1,6 @@
-﻿#En-Ta Glossary prepared by University of Moratuwa
-#Line Count : 8949
-#Version-1.0.2
+﻿#NLPC En-Ta Corpus prepared by University of Moratuwa. 
+#Line Count : 8950
+#Version-1.0.3
 Ranaviru Sewa Authority 
 Annual Report 2011 
 No.301, 4th Floor, 
